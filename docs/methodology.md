@@ -7,4 +7,4 @@ This document explains how we approach privacy testing for Qelva.
 - We model simple attacker heuristics first, then more advanced ones.
 - We document limitations honestly.
 
-As the system evolves, this methodology will be updated.
+As the system evolves, this methodology will be updated
