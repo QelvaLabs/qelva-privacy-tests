@@ -30,3 +30,14 @@ qelva-privacy-tests/
 ├─ tools/               → Small scripts for graph / timing analysis
 ├─ notebooks/           → Jupyter / analysis notebooks (optional)
 └─ docs/                → Methodology and explanations
+
+```
+## Status
+
+This repo is in early-stage research mode.
+
+- `docs/`: initial methodology & notes
+- `scenarios/`: placeholders for real-world privacy scenarios
+- `tools/`: planned scripts for graph & timing analysis
+
+The goal is to gradually move from written analysis to reproducible simulations and tools.
